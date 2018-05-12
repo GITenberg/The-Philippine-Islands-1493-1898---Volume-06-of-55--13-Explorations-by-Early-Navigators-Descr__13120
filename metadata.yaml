@@ -1,0 +1,46 @@
+_repo: The-Philippine-Islands-1493-1898---Volume-06-of-55--13-Explorations-by-Early-Navigators-Descr__13120
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Bourne, Edward Gaylord
+    birthdate: 1860
+    deathdate: 1908
+    gutenberg_agent_id: '5446'
+    url: http://www.gutenberg.org/2009/agents/5446
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Robertson, James Alexander
+    alias: Robertson, J. A. (James Alexander)
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '2297'
+    url: http://www.gutenberg.org/2009/agents/2297
+  - agent_name: Blair, Emma Helen
+    deathdate: 1911
+    gutenberg_agent_id: '2296'
+    url: http://www.gutenberg.org/2009/agents/2296
+description: ''
+gutenberg_issued: '2004-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- Sources'
+- !lcsh 'Missions -- Philippines'
+- !lcc 'DS'
+- !lcsh 'Philippines -- Discovery and exploration'
+- !lcsh 'Demarcation line of Alexander VI'
+title: "The Philippine Islands, 1493-1898 — Volume 06 of 55\r\n1583-1588\r\nExplorations\
+  \ by Early Navigators, Descriptions of the Islands and Their Peoples, Their History\
+  \ and Records of the Catholic Missions, as Related in Contemporaneous Books and\
+  \ Manuscripts, Showing the Political, Economic, Commercial and Religious Conditions\
+  \ of Those Islands from Their Earliest Relations with European Nations to the Close\
+  \ of the Nineteenth Century"
+url: http://www.gutenberg.org/ebooks/13120
